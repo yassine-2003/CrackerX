@@ -57,7 +57,7 @@
 + ` cd CrackerX `
 + ` ccrypt -d * `
 
-+ Enter here decryption key [ Key is completly FREE you can find it on Our [Telegram channel](https://t.me/hackwithalex) ]
++ Enter here decryption key [ Key is completly FREE you can find it on Our [Telegram channel](https://t.me/hackwithalex/162) ]
 
 + ` chmod +x * `
 + ` bash setup.sh `
@@ -70,7 +70,7 @@
 
 + Click here to watch Installation video with practical
 
-<a href="https://t.me/mrhackersx/147" >
+<a href="https://t.me/hackwithalex/161" >
 <img src="https://i.ibb.co/yPf4D2h/Capture-2023-03-08-03-02-18.jpg" >
 </a>
 
