@@ -60,7 +60,7 @@
 + Enter here decryption key [ Key is completly FREE you can find it on Our [Telegram channel](https://t.me/hackwithalex/162) ]
 
 + ` chmod +x * `
-+ ` bash setup.sh `
++ ` bash install.sh `
 
 + Congratulations You've Installed ` CrackerX ` Successfully, Now its time to Run The CrackerX.
 
