@@ -52,13 +52,8 @@
 + ` apt-get update -y `
 + ` apt-get upgrade -y `
 + ` apt-get install git -y `
-+ ` apt-get install ccrypt -y `
 + ` git clone https://github.com/MrHacker-X/CrackerX.git/ `
 + ` cd CrackerX `
-+ ` ccrypt -d * `
-
-+ Enter here decryption key [ Key is completly FREE you can find it on Our [Telegram channel](https://t.me/hackwithalex/162) ]
-
 + ` chmod +x * `
 + ` bash install.sh `
 
