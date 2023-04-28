@@ -181,7 +181,7 @@ def main():
                 print("\n\033[1;91m[\033[1;97mx\033[1;91m]\033[1;92m Changing proxy server: " + proxy_list[proxy_index])
                 print()
         except instaloader.exceptions.ConnectionException:
-            print("\n\033[1;91m[\033[1;97mx\033[1;91m]\033[1;92m Instagram has been requested verification through sms, try to set more login time...")
+            print("\n\033[1;91m[\033[1;97mx\033[1;91m]\033[1;92m Connection Error...")
             break
         except instaloader.exceptions.InvalidArgumentException:
             print("\n\033[91m[x] Wrong Username")
