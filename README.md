@@ -23,7 +23,7 @@
 
 </p>
 
-+ ``` Created By: Alex Butler (MrHacker-X) ```
++ ``` Author: Alex Butler```
 
 ## Description:
 
