@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 </p>
 
+<script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-post="hackwithalex/161" data-width="100%"></script>
+
 ## What's New
 
 - ` User experience enhanced `
