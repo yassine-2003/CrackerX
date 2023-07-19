@@ -1,3 +1,4 @@
+# !/bin/bash
 # Created by: github.com/MrHacker-X
 
 if [ -d "/data/data/com.termux/files" ];then
@@ -6,17 +7,21 @@ if [ -d "/data/data/com.termux/files" ];then
     termux-setup-storage
     apt update -y
     apt upgrade -y
-    apt install python fortune -y
+    apt install python python-pip fortune -y
+    pip install requests
+    pip install instaloader
     pip install requests
     pip install instaloader
 
 else
-    sudo echo '[*] Setting up it in your Linux'
+    echo '[*] Setting up it in your Linux'
     echo
     sudo apt-get update -y
     sudo apt-get upgrade -y
     sudo apt-get install python3 python3-pip fortune -y
     sudo pip install requests
+    sudo pip install requests
+    sudo pip install instaloader
     sudo pip install instaloader
 
 fi
