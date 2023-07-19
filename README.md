@@ -1,33 +1,27 @@
-# CrackerX
+<h1 align="center">CrackerX</h1>
 
 <p align="center">
-<a href="https://instagram.com/0hacker_x0"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+  <img src="https://img.shields.io/github/stars/MrHacker-X/CrackerX?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/MrHacker-X/CrackerX?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/watchers/MrHacker-X/CrackerX?color=cyan&style=for-the-badge&color=purple"><br>
+  <img src="https://img.shields.io/github/issues/MrHacker-X/CrackerX?color=red&style=for-the-badge">
+  <img src="https://hits.dwyl.com/MrHacker-X/CrackerX.svg" width="140" height="28">
+<br>
+<br>
+  <img src="https://img.shields.io/badge/Author-Alex Butler-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
 </p>
 
-<p align="center">
-<a href="https://instagram.com/0hacker_x0"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-CrackerX-green.svg"></a>
-<a href="https://youtube.com/@Technolex"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
-<a href="https://youtube.com/@Technolex"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
-</p>
+## What's New
 
-<p align="center">
-<a href="https://github.com/MrHacker-X"><img title="Github" src="https://img.shields.io/badge/MrHacker-X-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://youtube.com/@Technolex"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Technolex-red?style=for-the-badge&logo=Youtube"></a>
-</p>
-<p align="center">
-<a href="https://github.com/MrHacker-X"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=103"></a>
-<a href="https://github.com/MrHacker-X"><img title="Followers" src="https://img.shields.io/github/followers/MrHacker-X?color=blue&style=flat-square"></a>
-<a href="https://github.com/MrHacker-X"><img title="Stars" src="https://img.shields.io/github/stars/MrHacker-X/CrackerX?color=red&style=flat-square"></a>
-<a href="https://github.com/MrHacker-X"><img title="Forks" src="https://img.shields.io/github/forks/MrHacker-X/CrackerX?color=red&style=flat-square"></a>
-<a href="https://github.com/MrHacker-X"><img title="Watching" src="https://img.shields.io/github/watchers/MrHacker-X/CrackerX?label=Watchers&color=blue&style=flat-square"></a>
-
-</p>
-
-+ ``` Author: Alex Butler```
+- ` User experience enhanced `
+- ` Password list updated `
+- ` Error fixed `
 
 ## Description:
 
-+ CrackerX is a tool for instagram account bruteforce. And this tool work on both termux and linux. Just Give your target username and a list of password and just forget about it. No need to worry about your anonymity, Because Its first and higest priority is your anonymity. It only attack when proxy is working well. If you don't have any password list then It will take default password list automatically. No need to worry about it. This tool is created using python programming language. This tool will stop attack when password will found and found password will automatically save in a file with target username.
++ ` CrackerX ` is a tool for instagram account bruteforce. And this tool work on both termux and linux. Just Give your target username and a list of password and just forget about it. No need to worry about your anonymity, Because Its first and highest priority is your anonymity. It only attack when proxy is working well. If you don't have any password list then It will take default password list automatically. No need to worry about it. This tool is created using python programming language. This tool will stop attack when password will found and found password will automatically save in a file with target username.
 
 ## Supported OS:
 
@@ -47,7 +41,7 @@
 
 ## Installation:
 
-+ ### Use  ` sudo ` If you're a Linux User, or Just copy paste it if you're Termux User.
++ ### Use ` sudo ` If you're a Linux User, or Just copy paste it if you're Termux User.
 
 + ` apt-get update -y `
 + ` apt-get upgrade -y `
@@ -72,11 +66,8 @@
 
 ## Screenshots:
 
-![photo](https://i.ibb.co/XDspQ2b/Screenshot-2023-03-08-03-13-13-242-com-termux.jpg)
-![photo](https://i.ibb.co/5956vLt/Screenshot-2023-03-08-03-14-04-847-com-termux.jpg)
-![photo](https://i.ibb.co/KD4WYZ1/Screenshot-2023-03-08-03-13-54-699-com-termux.jpg)
-![photo](https://i.ibb.co/zbJyGt5/Screenshot-2023-03-08-03-14-42-354-com-termux.jpg)
-
+![photo](https://i.ibb.co/KWrfc8Y/main.jpg)
+![photo](https://i.ibb.co/Z6WH8Vq/attack.jpg)
 
 ## Some Popular repository:
 + You can check it out
