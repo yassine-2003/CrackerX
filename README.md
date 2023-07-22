@@ -60,7 +60,7 @@
 + Click here to watch Installation video with practical
 
 <a href="https://t.me/hackwithalex/161" >
-<img src="https://i.ibb.co/yPf4D2h/Capture-2023-03-08-03-02-18.jpg" >
+<img src="https://i.ibb.co/r58Tztr/20230723-022132.jpg" >
 </a>
 
 
